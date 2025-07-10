@@ -533,6 +533,9 @@ OrCam MyEye	89.7%	91.2%	1.5초	7.0시간
 [11] Potluri, S., Rasool, A., & Bain, D., "A study on assistive technology for visually impaired," International Journal of Engineering and Computer Science, vol. 7, no. 3, pp. 23777-23779, 2018.
 
 [12] Redmon, J., Divvala, S., Girshick, R., & Farhadi, A., "You only look once: Unified, real-time object detection," Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 779-788, 2016.
+#### 실제 존재 하는 논문인지 확인 해 봄 
+<img width="602" height="111" alt="image" src="https://github.com/user-attachments/assets/838f439e-d077-4b58-b3d7-0099ebcc7427" />
+<img width="922" height="716" alt="image" src="https://github.com/user-attachments/assets/160fd9fb-639b-44a0-8b29-2e45ff5fa116" />
 
 [13] Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H., "Mobilenets: Efficient convolutional neural networks for mobile vision applications," arXiv preprint arXiv:1704.04861, 2017.
 
